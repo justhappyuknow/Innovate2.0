@@ -47,7 +47,7 @@ function GetStarted() {
               <img src="/two.jpg" />
               <div className="text-box">
                 <h2 className="heading1">HACKING PERIOD STARTS</h2>
-                <small>6TH NOVEMBER, 2024</small>
+                <small>6<sup>th</sup> NOVEMBER, 2024</small>
                 <p>09:00 AM onwards</p>
                 <span className="right-arrow" />
               </div>
@@ -62,7 +62,7 @@ function GetStarted() {
               <img src="/stopwatch.jpeg" />
               <div className="text-box">
                 <h2 className="heading1">FIRST EVALUATION</h2>
-                <small>7TH NOVEMBER, 2024</small>
+                <small>7<sup>th</sup>  NOVEMBER, 2024</small>
                 <p>08:00 PM RESULTS ANNOUNCEMENT</p>
                 <span className="left-arrow" />
               </div>
@@ -77,7 +77,7 @@ function GetStarted() {
               <img src="/two.jpg" />
               <div className="text-box">
                 <h2 className="heading1">MODEL PREPRATION</h2>
-                <small>8TH NOVEMBER, 2024</small>
+                <small>8<sup>th</sup>  NOVEMBER, 2024</small>
                 <p>10:00 AM ONWARDS</p>
                 <span className="right-arrow" />
               </div>
@@ -92,7 +92,7 @@ function GetStarted() {
               <img src="/stopwatch.jpeg" />
               <div className="text-box">
                 <h2 className="heading1">OFFLINE SUBMISSION</h2>
-                <small>9TH NOVEMBER, 2024</small>
+                <small>9<sup>th</sup>  NOVEMBER, 2024</small>
                 <p>10:00 AM ONWARDS</p>
                 <span className="left-arrow" />
               </div>

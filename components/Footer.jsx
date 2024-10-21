@@ -61,7 +61,7 @@ function Footer() {
 
         <div className="flex flex-col">
           <div className="mb-[50px] h-[2px] bg-white opacity-10" />
-          <div className='flex gap-4'>
+          <div className='flex w-full justify-center gap-6 pb-2 sm:justify-start'>
           <Image src="/Logo-jiit[1].png" alt="Logo" width={40} height={40} />
           <Image src="/JYC.png" alt="Logo" width={50} height={50} />
           </div>
