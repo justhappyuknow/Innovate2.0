@@ -139,7 +139,7 @@ function Hero() {
 
         <div className="frontPageBtn flex space-x-4">
           <button className="Btn font-normal" type="button">
-            <a href="https://discord.com/invite/zKFdRQ4z9D">Discord</a>
+            <a href="https://discord.com/invite/mq8AQK7Q">Discord</a>
           </button>
           <div
             className="apply-button"
