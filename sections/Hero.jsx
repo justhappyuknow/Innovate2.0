@@ -11,7 +11,7 @@ function Hero() {
   const [text, setText] = useState('');
   const [text2, setText2] = useState('');
   const phrases = ['INNOVATE 2.0'];
-  const phrases2 = ['HACK TO BUILD'];
+  const phrases2 = ['Hack to Build'];
 
   useEffect(() => {
     const script = document.createElement('script');
