@@ -5,6 +5,8 @@ import { motion } from 'framer-motion';
 import './hero.css';
 import styles from '../styles';
 import { slideIn, staggerContainer, textVariant } from '../utils/motion';
+import Image from 'next/image'
+
 function Hero() {
   const [text, setText] = useState('');
   const phrases = [
@@ -122,6 +124,11 @@ function Hero() {
             </div>
           </a>
         </motion.div>
+        <div className='flex w-full justify-evenly mt-8'>
+          <a href='https://devfolio.co' target='_blank'><img src="/Devfolio_Logo.svg" alt="DEVFOLIO LOGO" className='bg-white p-2'></img></a>
+          <a  href='https://polygon.technology/' target='_blank'><img src="/Polygon_Logo.svg" alt="POLYGON LOGO" className='bg-white p-2'></img></a>
+          <a  href='https://ethindia.co'  target='_blank'><img src="/ethindia-dark.svg" alt="ETHINDIA LOGO" className='bg-white p-2'></img></a>
+        </div>
       </motion.div>
     </section>
   );
