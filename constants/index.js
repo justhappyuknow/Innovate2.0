@@ -96,23 +96,18 @@ export const insights = [
 
 export const socials = [
   {
-    name: 'telegram',
+    name: 'Discord',
     url: '/discord.svg',
-    href: 'https://discord.gg/zKFdRQ4z9D',
-  },
-  {
-    name: 'linkedin',
-    url: '/linkedin.svg',
-    href: 'https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFx5DDyMtDHlwAAAYzdvY-IdZOXMNqamWkeKzZQdyYytS5v4rnk6NUb7efZRQdNWS1-zOQS7SQ0ifW0sKyRTagpY_ksTcJ9QwPZDXBAz-WuBhgRWZ-UZbdl_DXBh6kcbYZjf40=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fieee-student-branch-jiit',
+    href: 'https://discord.gg/mq8AQK7Q',
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
-    href: 'https://www.instagram.com/jiityouthclub128/profilecard/?igsh=MTNvYm5rd2ZjbHBscA==',
+    href: 'https://www.instagram.com/jiityouthclub128?igsh=MWxqZDNrenV2Y2p6NA==',
   },
   {
     name: 'facebook',
     url: '/facebook.svg',
-    href: 'https://www.facebook.com/ieeesbjiit/',
+    href: 'https://www.facebook.com/jiityouthclub128',
   },
 ];
