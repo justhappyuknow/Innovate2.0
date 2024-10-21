@@ -16,6 +16,8 @@ const styles = {
   // hero section
   heroHeading:
       'font-bold lg:text-[150px] md:text-[90px] sm:text-[50px] text-[2.4rem] sm:pl-10 lg:leading-[158.4px] md:leading-[114.4px] sm:leading-[74.4px] leading-[64.4px] uppercase text-white',
+  heroHeading1:
+      'font-bold lg:text-[100px] md:text-[70px] sm:text-[30px] text-[1.8rem] sm:pl-10 lg:leading-[158.4px] md:leading-[114.4px] sm:leading-[74.4px] leading-[64.4px] uppercase text-white',
   heroDText:
       'md:w-[212px] sm:w-[80px] w-[60px] md:h-[108px] sm:h-[48px] h-[38px] md:border-[18px] border-[9px] rounded-r-[50px] border-white sm:mx-[auto] mx-[auto]',
 };
