@@ -20,7 +20,8 @@ function RootLayout({ children }) {
         <link rel="icon" href="/hackstreetlogo.ico" />
         <title>INNOVATE 2.O</title>
       </head>
-      <body>{children}</body>
+      <body>{children}
+      </body>
     </html>
   );
 }

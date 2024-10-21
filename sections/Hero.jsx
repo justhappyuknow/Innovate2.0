@@ -5,23 +5,25 @@ import { motion } from 'framer-motion';
 import './hero.css';
 import styles from '../styles';
 import { slideIn, staggerContainer, textVariant } from '../utils/motion';
-
 function Hero() {
   const [text, setText] = useState('');
   const phrases = [
     'INNOVATE 2.O HACK TO BUILD',
   ];
-
   useEffect(() => {
+    // Load the Devfolio SDK script on client-side only
     const script = document.createElement('script');
     script.src = 'https://apply.devfolio.co/v2/sdk.js';
     script.async = true;
     script.defer = true;
     document.body.appendChild(script);
+
+    // Cleanup on unmount
     return () => {
       document.body.removeChild(script);
     };
   }, []);
+  
 
   useEffect(() => {
     let currentPhraseIndex = 0;
@@ -86,25 +88,17 @@ function Hero() {
         </div>
 
         <div className="frontPageBtn flex space-x-4">
-          <div
-            className="apply-button"
-            data-hackathon-slug="hackstreet24"
-            data-button-theme="light"
-            style={{ height: '44px', width: '312px' }}
-          />
-          <div
-            class="apply-button"
-            data-hackathon-slug="YOUR-HACKATHON-SLUG"
-            data-button-theme="light"
-            style={{height: '44px', width: '312px'}}
-          ></div>
-
+          
+          
           <button className="Btn font-normal" type="button">
             <a href="https://discord.com/invite/zKFdRQ4z9D">Discord</a>
           </button>
-          <button className="Btn font-normal" type="button">
-            <a href="https://discord.com/invite/zKFdRQ4z9D">Devfolio Link</a>
-          </button>
+          <div
+        className="apply-button"
+        data-hackathon-slug="innovate-26"
+        data-button-theme="light"
+        style={{ height: '44px', width: '312px' }}
+      ></div>
         </div>
 
         <motion.div
