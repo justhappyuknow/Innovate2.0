@@ -14,10 +14,10 @@ function Navbar() {
     <nav className="fixed top-0 w-full bg-black bg-opacity-50 backdrop-blur-md shadow-md z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          <div className="flex items-center">
+          <div className="flex items-center justify-evenly">
             <Image src="/Logo-jiit[1].png" alt="Logo" width={60} height={60} />
             <Image src="/1.png" alt="Logo" width={50} height={50} className="ml-3" />
-            <h2 className="text-xl font-bold ml-3 text-white">
+            <h2 className="text-lg font-bold ml-3 text-white lg:text-2xl">
               <Link to="home" className="cursor-pointer">INNOVATE 2.0</Link>
             </h2>
           </div>

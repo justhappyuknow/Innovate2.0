@@ -67,25 +67,25 @@ function Hero() {
         viewport={{ once: false, amount: 0.25 }}
         className={`${styles.innerWidth} mx-auto flex flex-col`}
       >
-        <div
-          className="flex justify-center items-center flex-col z-10 lg:mt-[70px] mt-[70px] mb-[60px]"
-          id="heroPage"
-        >
-          <motion.h1
-            variants={textVariant(1.5)}
-            className={styles.heroHeading}
-            id="head"
-          >
-            {text}
-            <motion.span
-              animate={{ opacity: [0, 1, 0] }}
-              transition={{ duration: 1.7 }}
-              style={{ marginLeft: '0.1em' }}
-            >
-              |
-            </motion.span>
-          </motion.h1>
-        </div>
+      <div
+  className="flex justify-start items-center flex-col z-10 w-full lg:mt-[70px] mt-[40px] mb-[60px] px-4 lg:px-0"
+  id="heroPage"
+>
+  <motion.h1
+    variants={textVariant(1.5)}
+    className={`${styles.heroHeading} w-full text-left`}
+    id="head"
+  >
+    {text}
+    <motion.span
+      animate={{ opacity: [0, 1, 0] }}
+      transition={{ duration: 1.7 }}
+      style={{ marginLeft: '0.1em' }}
+    >
+      |
+    </motion.span>
+  </motion.h1>
+</div>
 
         <div className="frontPageBtn flex space-x-4">
           
@@ -115,9 +115,9 @@ function Hero() {
           <a href="#explore">
             <div className="w-full flex justify-end sm:-mt-[70px] -mt-[50px] lg:-mt-[50px] pr-[40px] relative z-[10]">
               <img
-                src="/logo_hack.png"
+                src="/1.png"
                 alt="stamp"
-                className="sm:w-[155px] lg:w-[100px] w-[100px] sm:h-[155px] lg:h-[100px] h-[100px] object-contain"
+                className="sm:w-[155px] lg:w-[100px] w-[100px] sm:h-[155px] lg:h-[100px] h-[100px] object-contain rounded-full"
               />
             </div>
           </a>
