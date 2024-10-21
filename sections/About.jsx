@@ -6,6 +6,7 @@ import { InsightCard, TitleText, TypingText } from '../components';
 
 import styles from '../styles';
 import { fadeIn, staggerContainer } from '../utils/motion';
+import { BsSuperscript } from 'react-icons/bs';
 
 function About() {
   return (
@@ -26,7 +27,7 @@ function About() {
         >
           <span className="font-extrabold text-white">INNOVATE 2.O</span> is a HYBRID
            hackathon, being held on{' '}
-          <span className="font-extrabold text-white">6 - 9 TH November 2k24.</span>{' '}
+          <span className="font-extrabold text-white">6 - 9 <sup>th</sup> November 2k24.</span>{' '}
           This year, Innovate 2.0 returns with
           even more excitement,   .{' '}
                     <span className="font-extrabold text-white">inviting a

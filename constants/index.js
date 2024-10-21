@@ -52,7 +52,7 @@ export const newFeatures2 = [
     imgUrl: '/trophy.svg',
     title: 'CATEGORY BEST',
     subtitle:
-        'Caategory best project of the hackathon will win some awesome prizes.',
+        'Category best project of the hackathon will win some awesome prizes.',
   },
   // {
   //   imgUrl: '/headset.svg',

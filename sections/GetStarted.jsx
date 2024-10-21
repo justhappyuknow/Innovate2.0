@@ -34,6 +34,8 @@ function GetStarted() {
               <img src="/stopwatch.jpeg" />
               <div className="text-box">
                 <h2 className="heading1">REGISTRATIONS</h2>
+                <p>22<sup>nd</sup>October</p>
+                <p>Deadline for Regsitrations 2<sup>nd</sup>November</p>
                 <span className="left-arrow" />
               </div>
             </div>
@@ -46,9 +48,10 @@ function GetStarted() {
             <div className="container right">
               <img src="/two.jpg" />
               <div className="text-box">
-                <h2 className="heading1">HACKING PERIOD STARTS</h2>
+                <h2 className="heading1">IDEA SUBMISSION ROUND</h2>
                 <small>6<sup>th</sup> NOVEMBER, 2024</small>
-                <p>09:00 AM onwards</p>
+                <p>10:00 AM - 7:00 PM</p>
+                <p>RESULT OF IDEA SUBMISSION ON  7<sup>th</sup> NOV</p>
                 <span className="right-arrow" />
               </div>
             </div>
@@ -61,9 +64,9 @@ function GetStarted() {
             <div className="container left">
               <img src="/stopwatch.jpeg" />
               <div className="text-box">
-                <h2 className="heading1">FIRST EVALUATION</h2>
+                <h2 className="heading1">HACKATHON STARTS</h2>
                 <small>7<sup>th</sup>  NOVEMBER, 2024</small>
-                <p>08:00 PM RESULTS ANNOUNCEMENT</p>
+                <p>09:00 AM onwards</p>
                 <span className="left-arrow" />
               </div>
             </div>
@@ -76,9 +79,9 @@ function GetStarted() {
             <div className="container right">
               <img src="/two.jpg" />
               <div className="text-box">
-                <h2 className="heading1">MODEL PREPRATION</h2>
+                <h2 className="heading1">HACKATHON ENDS</h2>
                 <small>8<sup>th</sup>  NOVEMBER, 2024</small>
-                <p>10:00 AM ONWARDS</p>
+                <p>11:59 PM</p>
                 <span className="right-arrow" />
               </div>
             </div>
@@ -91,7 +94,8 @@ function GetStarted() {
             <div className="container left">
               <img src="/stopwatch.jpeg" />
               <div className="text-box">
-                <h2 className="heading1">OFFLINE SUBMISSION</h2>
+                <h2 className="heading1">OFFLINE WINNER DECLARATION</h2>
+                <p>After Project Presentation by team</p>
                 <small>9<sup>th</sup>  NOVEMBER, 2024</small>
                 <p>10:00 AM ONWARDS</p>
                 <span className="left-arrow" />
