@@ -33,9 +33,9 @@ function GetStarted() {
             <div className="container left">
               <img src="/stopwatch.jpeg" />
               <div className="text-box">
-                <h2 className="heading1">REGISTRATIONS Begins</h2>
-                <p>22<sup>nd</sup>October</p>
-                <p>Deadline for Regsitrations 2<sup>nd</sup>November</p>
+                <h2 className="heading1">REGISTRATIONS BEGINS</h2>
+                <p>22<sup>nd</sup> October</p>
+                <p>Deadline for Regsitrations 2 <sup>nd</sup>November</p>
                 <span className="left-arrow" />
               </div>
             </div>
@@ -51,7 +51,7 @@ function GetStarted() {
                 <h2 className="heading1">IDEA SUBMISSION ROUND</h2>
                 <small>6<sup>th</sup> NOVEMBER, 2024</small>
                 <p>10:00 AM - 7:00 PM</p>
-                <p>RESULT OF IDEA SUBMISSION ON  7<sup>th</sup> NOV</p>
+                <p>Result of Idea Submission on  7<sup>th</sup> NOV</p>
                 <span className="right-arrow" />
               </div>
             </div>
