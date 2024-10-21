@@ -1,7 +1,7 @@
 export const exploreWorlds = [
   {
     id: 'Murder-1',
-    imgUrl: '/edu.jpg',
+    imgUrl: '/Fintech.jpg',
     title: 'Fintech',
   },
   {

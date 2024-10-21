@@ -44,8 +44,8 @@ function Footer() {
         className={`${styles.innerWidth} mx-auto flex flex-col gap-8 footerMain`}
       >
         <div className="flex items-center justify-between flex-wrap gap-5">
-          <h4 className="font-bold md:text-[40px] text-[30px] text-white">
-            INNOVATE 2.0: <span className='text-[40px]'>Hack to Build</span>
+          <h4 className="font-bold md:text-[50px] text-[40px] text-white">
+            INNOVATE 2.0: <span className='text-[38px] md:text-[40px]'>Hack to Build</span>
           </h4>
           {/* <button type='button' className='flex items-center h-fit py-4 px-6 bg-[#25618b] rounded-[32px] gap-[12px]'>
           <img src='/headset.svg' alt='headset' className='w-[24px] h-[24px] object-contain' />
@@ -61,7 +61,7 @@ function Footer() {
 
         <div className="flex flex-col">
           <div className="mb-[50px] h-[2px] bg-white opacity-10" />
-          <div className='flex w-full justify-center gap-6 pb-2 sm:justify-start'>
+          <div className='flex w-full justify-center gap-6 pb-2 lg:justify-start'>
           <Image src="/Logo-jiit[1].png" alt="Logo" width={40} height={40} />
           <Image src="/JYC.png" alt="Logo" width={50} height={50} />
           </div>

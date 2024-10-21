@@ -171,15 +171,15 @@ function Hero() {
           </a>
         </motion.div>
 
-        <div className="flex w-full justify-evenly mt-8">
+        <div className="flex flex-col lg:flex-row justify-center w-full items-center gap-10 mt-8">
           <a href="https://devfolio.co" target="_blank">
-            <img src="/Devfolio_Logo.svg" alt="DEVFOLIO LOGO" className="bg-white p-2"></img>
+            <img src="/Devfolio_Logo.svg" alt="DEVFOLIO LOGO" className="bg-white p-2 w-64"></img>
           </a>
           <a href="https://polygon.technology/" target="_blank">
-            <img src="/Polygon_Logo.svg" alt="POLYGON LOGO" className="bg-white p-2"></img>
+            <img src="/Polygon_Logo.svg" alt="POLYGON LOGO" className="bg-white p-2 w-64"></img>
           </a>
           <a href="https://ethindia.co" target="_blank">
-            <img src="/ethindia-dark.svg" alt="ETHINDIA LOGO" className="bg-white p-2"></img>
+            <img src="/ethindia-dark.svg" alt="ETHINDIA LOGO" className="bg-white p-2 w-64"></img>
           </a>
         </div>
       </motion.div>
