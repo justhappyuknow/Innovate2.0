@@ -35,7 +35,7 @@ function GetStarted() {
               <div className="text-box">
                 <h2 className="heading1">REGISTRATIONS BEGINS</h2>
                 <p>22<sup>nd</sup> October</p>
-                <p>Deadline for Regsitrations 2 <sup>nd</sup>November</p>
+                <p>Deadline for Regsitrations 2<sup>nd</sup>November</p>
                 <span className="left-arrow" />
               </div>
             </div>
