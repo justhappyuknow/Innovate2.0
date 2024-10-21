@@ -29,7 +29,7 @@ function About() {
            hackathon, being held on{' '}
           <span className="font-extrabold text-white">6 - 9 <sup>th</sup> November 2k24.</span>{' '}
           This year, Innovate 2.0 returns with
-          even more excitement,   .{' '}
+          even more excitement, {' '}
                     <span className="font-extrabold text-white">inviting a
           larger community of innovators to
           build </span>
