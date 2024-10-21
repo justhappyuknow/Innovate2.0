@@ -33,7 +33,7 @@ function GetStarted() {
             <div className="container left">
               <img src="/stopwatch.jpeg" />
               <div className="text-box">
-                <h2 className="heading1">REGISTRATIONS</h2>
+                <h2 className="heading1">REGISTRATIONS Begins</h2>
                 <p>22<sup>nd</sup>October</p>
                 <p>Deadline for Regsitrations 2<sup>nd</sup>November</p>
                 <span className="left-arrow" />
