@@ -92,6 +92,12 @@ function Hero() {
             data-button-theme="light"
             style={{ height: '44px', width: '312px' }}
           />
+          <div
+            class="apply-button"
+            data-hackathon-slug="YOUR-HACKATHON-SLUG"
+            data-button-theme="light"
+            style="height: 44px; width: 312px"
+          ></div>
 
           <button className="Btn font-normal" type="button">
             <a href="https://discord.com/invite/zKFdRQ4z9D">Discord</a>
