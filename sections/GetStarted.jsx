@@ -46,7 +46,7 @@ function GetStarted() {
             variants={fadeIn('left', 'spring', 0.9, 1.5)}
           >
             <div className="container right">
-              <img src="/two.jpg" />
+              <img src="/stopwatch.jpeg" />
               <div className="text-box">
                 <h2 className="heading1">IDEA SUBMISSION ROUND</h2>
                 <small>6<sup>th</sup> NOVEMBER, 2024</small>
@@ -77,7 +77,7 @@ function GetStarted() {
             variants={fadeIn('left', 'spring', 1.1, 1.5)}
           >
             <div className="container right">
-              <img src="/two.jpg" />
+              <img src="/stopwatch.jpeg" />
               <div className="text-box">
                 <h2 className="heading1">HACKATHON ENDS</h2>
                 <small>8<sup>th</sup>  NOVEMBER, 2024</small>
