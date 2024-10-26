@@ -6,15 +6,24 @@
   gap: 20px;
 }
 
+.btnColor{
+  background-color: #7289da;
+  border: 2px solid #7289da;
+  color: #fff;
+}
+
+.btnColor1 {
+  background-color: blue;
+  border: 2px solid #7289da;
+  color: #fff;
+}
+
 .Btn {
   height: 44px;
   width: 312px;
   font-size: 20px;
   font-weight: 600;
   border-radius: 8px;
-  background-color: #7289da;
-  border: 2px solid #7289da;
-  color: #fff;
   transition: all 0.3s ease;
   position: relative;
   overflow: hidden;

@@ -138,15 +138,11 @@ function Hero() {
         </div>
 
         <div className="frontPageBtn flex space-x-4">
-          <button className="Btn font-normal" type="button">
-            <a href="https://discord.com/invite/mq8AQK7Q">Discord</a>
+
+          <button className="Btn btnColor font-normal" type="button">
+            <a href="https://discord.com/invite/zKFdRQ4z9D" target='_blank'>Discord</a>
           </button>
-          <div
-            className="apply-button"
-            data-hackathon-slug="innovate-26"
-            data-button-theme="light"
-            style={{ height: '44px', width: '312px' }}
-          ></div>
+          <a href='https://unstop.com/o/ra3uXzB?lb=kzH2fR6' target='_blank'><button className='Btn btnColor1'>Register Now</button></a>
         </div>
 
         <motion.div
@@ -171,7 +167,7 @@ function Hero() {
           </a>
         </motion.div>
 
-        <div className="flex flex-col lg:flex-row justify-center w-full items-center gap-10 mt-8">
+        {/* <div className="flex flex-col lg:flex-row justify-center w-full items-center gap-10 mt-8">
           <a href="https://devfolio.co" target="_blank">
             <img src="/Devfolio_Logo.svg" alt="DEVFOLIO LOGO" className="bg-white p-2 w-64"></img>
           </a>
@@ -181,7 +177,7 @@ function Hero() {
           <a href="https://ethindia.co" target="_blank">
             <img src="/ethindia-dark.svg" alt="ETHINDIA LOGO" className="bg-white p-2 w-64"></img>
           </a>
-        </div>
+        </div> */}
       </motion.div>
     </section>
   );

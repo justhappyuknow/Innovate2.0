@@ -53,12 +53,7 @@ function Footer() {
           <img src='/headset.svg' alt='headset' className='w-[24px] h-[24px] object-contain' />
           <span className='font-normal text-[16px] text-white'>ENTER REALM</span>
         </button> */}
-          <div
-            className="apply-button"
-            data-hackathon-slug="hackstreet24"
-            data-button-theme="light"
-            style={{ height: '44px', width: '312px' }}
-          />
+        <a href='https://unstop.com/o/ra3uXzB?lb=kzH2fR6' target='_blank'><button className='Btn btnColor1'>Register Now</button></a>
         </div>
 
         <div className="flex flex-col">
