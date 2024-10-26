@@ -34,8 +34,8 @@ function GetStarted() {
               <img src="/stopwatch.jpeg" />
               <div className="text-box">
                 <h2 className="heading1">REGISTRATIONS BEGINS</h2>
-                <p>22<sup>nd</sup> October</p>
-                <p>Deadline for Regsitrations 2<sup>nd</sup>November</p>
+                <small>22<sup>nd</sup> OCTOBER</small>
+                <p>Deadline for Regsitrations <br/><small>10<sup>th</sup> NOVEMBER</small></p>
                 <span className="left-arrow" />
               </div>
             </div>
@@ -49,9 +49,9 @@ function GetStarted() {
               <img src="/stopwatch.jpeg" />
               <div className="text-box">
                 <h2 className="heading1">IDEA SUBMISSION ROUND</h2>
-                <small>6<sup>th</sup> NOVEMBER, 2024</small>
+                <small>10<sup>th</sup> NOVEMBER, 2024</small>
                 <p>10:00 AM - 7:00 PM</p>
-                <p>Result of Idea Submission on  7<sup>th</sup> NOV</p>
+                <p>Result of Idea Submission on <br/><small>12<sup>th</sup> NOVEMBER</small></p>
                 <span className="right-arrow" />
               </div>
             </div>
@@ -65,7 +65,7 @@ function GetStarted() {
               <img src="/stopwatch.jpeg" />
               <div className="text-box">
                 <h2 className="heading1">HACKATHON STARTS</h2>
-                <small>7<sup>th</sup>  NOVEMBER, 2024</small>
+                <small>16<sup>th</sup>  NOVEMBER, 2024</small>
                 <p>09:00 AM onwards</p>
                 <span className="left-arrow" />
               </div>
@@ -80,7 +80,7 @@ function GetStarted() {
               <img src="/stopwatch.jpeg" />
               <div className="text-box">
                 <h2 className="heading1">HACKATHON ENDS</h2>
-                <small>8<sup>th</sup>  NOVEMBER, 2024</small>
+                <small>17<sup>th</sup>  NOVEMBER, 2024</small>
                 <p>11:59 PM</p>
                 <span className="right-arrow" />
               </div>
@@ -96,7 +96,7 @@ function GetStarted() {
               <div className="text-box">
                 <h2 className="heading1">OFFLINE WINNER DECLARATION</h2>
                 <p>After Project Presentation by team</p>
-                <small>9<sup>th</sup>  NOVEMBER, 2024</small>
+                <small>19<sup>th</sup>  NOVEMBER, 2024</small>
                 <p>10:00 AM ONWARDS</p>
                 <span className="left-arrow" />
               </div>
