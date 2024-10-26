@@ -11,7 +11,7 @@ function Hero() {
   const [text, setText] = useState('');
   const [text2, setText2] = useState('');
   const phrases = ['INNOVATE 2.0'];
-  const phrases2 = ['Hack to Build', 'Presented By JIIT-128'];
+  const phrases2 = ['Hack to Build', 'Presented by JYC-128'];
 
   useEffect(() => {
     const script = document.createElement('script');
@@ -138,6 +138,7 @@ function Hero() {
         </div>
 
         <div className="frontPageBtn flex space-x-4">
+
           <button className="Btn btnColor font-normal" type="button">
             <a href="https://discord.com/invite/zKFdRQ4z9D" target='_blank'>Discord</a>
           </button>
