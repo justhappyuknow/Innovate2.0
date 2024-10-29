@@ -140,7 +140,7 @@ function Hero() {
         <div className="frontPageBtn flex space-x-4">
 
           <button className="Btn btnColor font-normal" type="button">
-            <a href="https://discord.com/invite/zKFdRQ4z9D" target='_blank'>Discord</a>
+            <a href="https://discord.gg/VWVZKVnh" target='_blank'>Discord</a>
           </button>
           <a href='https://unstop.com/o/ra3uXzB?lb=kzH2fR6' target='_blank'><button className='Btn btnColor1'>Register Now</button></a>
         </div>
