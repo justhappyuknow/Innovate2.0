@@ -47,7 +47,7 @@ function Footer() {
           <h4 className="font-bold md:text-[50px] text-[40px] text-white">
             INNOVATE 2.0: <span className='text-[38px] md:text-[40px]'>Hack to Build</span>
             <br/>
-            <span className='text-[20px] lg:text-[30px]'>-by Jaypee Youth Club-128</span>
+            <span className='text-[20px] lg:text-[30px]'>-by JIIT Youth Club-128</span>
           </h4>
           {/* <button type='button' className='flex items-center h-fit py-4 px-6 bg-[#25618b] rounded-[32px] gap-[12px]'>
           <img src='/headset.svg' alt='headset' className='w-[24px] h-[24px] object-contain' />

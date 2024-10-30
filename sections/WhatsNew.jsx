@@ -25,7 +25,7 @@ function WhatsNew() {
             <TitleText title="Rewards🏆" textStyles="text-center" />
           </div>
           <div className="w-[90vw]">
-            <TitleText title="PRIZE POOL OVER INR 1.5+ lakh" textStyles="text-center" />
+            <TitleText title="PRIZE POOL OVER INR ₹ 50,000+" textStyles="text-center" />
           </div>
           <div className="mt-[48px] flex flex-wrap justify-between gap-[24px]">
             {newFeatures.map((feature) => (

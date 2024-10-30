@@ -51,7 +51,7 @@ function GetStarted() {
                 <h2 className="heading1">IDEA SUBMISSION ROUND</h2>
                 <small>10<sup>th</sup> NOVEMBER, 2024</small>
                 <p>9:00 AM - 7:00 PM</p>
-                <p>Result of Idea Submission on <br/><small>10<sup>th</sup> NOVEMBER</small></p>
+                <p>Result of Idea Submission on <br/><small>11<sup>th</sup> NOVEMBER</small></p>
                 <span className="right-arrow" />
               </div>
             </div>
@@ -65,7 +65,7 @@ function GetStarted() {
               <img src="/stopwatch.jpeg" />
               <div className="text-box">
                 <h2 className="heading1">HACKATHON STARTS</h2>
-                <small>11<sup>th</sup>  NOVEMBER, 2024</small>
+                <small>12<sup>th</sup>  NOVEMBER, 2024</small>
                 <p>09:00 AM onwards</p>
                 <span className="left-arrow" />
               </div>
@@ -80,7 +80,7 @@ function GetStarted() {
               <img src="/stopwatch.jpeg" />
               <div className="text-box">
                 <h2 className="heading1">HACKATHON ENDS</h2>
-                <small>12<sup>th</sup>  NOVEMBER, 2024</small>
+                <small>13<sup>th</sup>  NOVEMBER, 2024</small>
                 <p>9:00 AM</p>
                 <span className="right-arrow" />
               </div>
@@ -96,7 +96,7 @@ function GetStarted() {
               <div className="text-box">
                 <h2 className="heading1">OFFLINE WINNER DECLARATION</h2>
                 <p>After Project Presentation by team</p>
-                <small>13<sup>th</sup>  NOVEMBER, 2024</small>
+                <small>16<sup>th</sup>  NOVEMBER, 2024</small>
                 <p>9:00 AM ONWARDS</p>
                 <span className="left-arrow" />
               </div>
