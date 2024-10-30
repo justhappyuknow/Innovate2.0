@@ -82,6 +82,7 @@ function GetStarted() {
                 <h2 className="heading1">HACKATHON ENDS</h2>
                 <small>13<sup>th</sup>  NOVEMBER, 2024</small>
                 <p>9:00 AM</p>
+                <p>Declaration of Shortlisted teams on 14th November 2024!</p>
                 <span className="right-arrow" />
               </div>
             </div>
