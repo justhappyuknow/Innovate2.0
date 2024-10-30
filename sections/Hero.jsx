@@ -137,12 +137,12 @@ function Hero() {
           </motion.h2>
         </div>
 
-        <div className="frontPageBtn flex space-x-4">
+        <div className="frontPageBtn flex justify-center items-center">
 
           <button className="Btn btnColor font-normal" type="button">
             <a href="https://discord.com/invite/zKFdRQ4z9D" target='_blank'>Discord</a>
           </button>
-          <a href='https://unstop.com/o/ra3uXzB?lb=kzH2fR6' target='_blank'><button className='Btn btnColor1'>Register Now</button></a>
+          <button className='Btn btnColor1'><a href='https://unstop.com/o/ra3uXzB?lb=kzH2fR6' target='_blank'>Register Now</a></button>
         </div>
 
         <motion.div
